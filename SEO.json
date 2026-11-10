@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "customized-software-solution",
+  "description": "Customized Software Solution — Bespoke Engineering Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Fully customized modular business OS tailored to your exact workflows, roles, and integrations. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "bespoke-engineering",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/customized-software-solution"
+}
